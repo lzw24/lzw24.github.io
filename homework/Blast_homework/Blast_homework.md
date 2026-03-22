@@ -4,9 +4,9 @@
 
 ### 1. 使用网页版的 blastp进行序列比对
 
-![](https://yingzexu-lala.github.io/bioinformatic/2.3 Blast 1.1.png)
-![](https://yingzexu-lala.github.io/bioinformatic/2.3 Blast 1.2.png)
-![](https://yingzexu-lala.github.io/bioinformatic/2.3 Blast 1.3.png)
+![](https://github.com/lzw24/lzw24.github.io/blob/main/homework/Blast_homework/Blast 1.1.png)
+![](https://github.com/lzw24/lzw24.github.io/blob/main/homework/Blast_homework/Blast 1.2.png)
+![](https://github.com/lzw24/lzw24.github.io/blob/main/homework/Blast_homework/Blast 1.3.png)
 
 1. E-value：匹配次数的期望，表示在此次数据库搜索中，**预期得到 E-value 个得分为大于等于 S 的不同比对**。
 2. P-value：在本次数据库搜索中，由随机机会产生得分≥当前得分的比对结果的概率。即**随机获得一个至少等于 S 的得分的概率**。
